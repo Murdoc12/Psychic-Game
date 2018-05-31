@@ -39,7 +39,7 @@ document.onkeypress = function(event)
 
     {
 
-        alert('You Lost! You are not a psychic!');
+        alert('You Fainted!');
         losses = losses + 1;
         guessesLeft = 9;
         myguesses  = " ";
