@@ -1,0 +1,29 @@
+body {
+
+    background-image:url('../images/1.jpg')
+    
+
+
+}
+
+
+h1 
+{
+color: white
+}
+
+h2
+{
+color: white;
+
+}
+
+
+#myguesses,
+#guessesleft,
+#lossesGame,
+#winsGame
+{
+color: white;
+}
+
